@@ -1,0 +1,7 @@
+:root{--b:#8B1E2D;--t:#2b2b2b;--d:#666;--f:#faf7f5}
+*{box-sizing:border-box}body{margin:0;font:17px/1.6 "Segoe UI",system-ui,sans-serif;color:var(--t);background:var(--f)}
+main{max-width:760px;margin:0 auto;padding:40px 16px 60px}
+h1{color:var(--b);font-size:30px;margin:0 0 4px}h2{color:var(--b);font-size:21px;margin-top:34px}
+.sous{color:var(--d);margin:0 0 28px}a{color:var(--b)}
+.carte{background:#fff;border:1px solid #eadfdc;border-radius:14px;padding:18px 22px;margin:18px 0}
+footer{margin-top:40px;color:var(--d);font-size:14px}
